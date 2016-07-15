@@ -3,6 +3,13 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/buildtools.iml" filepath="$PROJECT_DIR$/.idea/buildtools.iml" />
+<<<<<<< HEAD
+=======
+      <module fileurl="file://$PROJECT_DIR$/myproject/myproject.iml" filepath="$PROJECT_DIR$/myproject/myproject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myproject/myproject-bl/myproject-bl.iml" filepath="$PROJECT_DIR$/myproject/myproject-bl/myproject-bl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myproject/myproject-bo/myproject-bo.iml" filepath="$PROJECT_DIR$/myproject/myproject-bo/myproject-bo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myproject/myproject-pl/myproject-pl.iml" filepath="$PROJECT_DIR$/myproject/myproject-pl/myproject-pl.iml" />
+>>>>>>> 6619111... Commitning Maven Progress.
     </modules>
   </component>
 </project>
