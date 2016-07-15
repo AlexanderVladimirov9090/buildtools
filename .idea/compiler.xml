@@ -22,13 +22,16 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
+        <module name="myproject" />
         <module name="myproject (1)" />
+        <module name="myproject-bl" />
         <module name="myproject-bo" />
         <module name="myproject-pl" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="buildtools" target="1.5" />
+      <module name="distribution" target="1.5" />
       <module name="myproject" target="1.5" />
       <module name="myproject (1)" target="1.5" />
       <module name="myproject-bl" target="1.5" />
