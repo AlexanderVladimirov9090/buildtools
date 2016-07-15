@@ -17,34 +17,6 @@
       <profile default="true" name="Default" enabled="false">
         <processorPath useClasspath="true" />
       </profile>
-<<<<<<< HEAD
     </annotationProcessing>
-=======
-      <profile default="false" name="Maven default annotation processors profile" enabled="true">
-        <sourceOutputDir name="target/generated-sources/annotations" />
-        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <processorPath useClasspath="true" />
-        <module name="myproject" />
-        <module name="myproject (1)" />
-        <module name="myproject-bl" />
-        <module name="myproject-bo" />
-        <module name="myproject-pl" />
-      </profile>
-    </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="buildtools" target="1.5" />
-      <module name="distribution" target="1.5" />
-      <module name="myproject" target="1.5" />
-      <module name="myproject (1)" target="1.5" />
-      <module name="myproject-bl" target="1.5" />
-      <module name="myproject-bo" target="1.5" />
-      <module name="myproject-pl" target="1.5" />
-    </bytecodeTargetLevel>
-<<<<<<< HEAD
->>>>>>> 6619111... Commitning Maven Progress.
-=======
->>>>>>> fec7d9d... Done with Maven.
->>>>>>> c77ebd2f428b7156000171c4c7b2f90a7acaadee
   </component>
 </project>
